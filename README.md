@@ -1,4 +1,4 @@
-# # 📊 AlgoViz — Sorting Algorithm Visualizer
+# 📊 AlgoViz — Sorting Algorithm Visualizer
 
 AlgoViz is an interactive web-based educational tool designed to help developers and students understand how sorting algorithms are actually implemented and executed under the hood. By combining a modern TypeScript frontend with high-performance C programming logic, it bridges the gap between web interfaces and low-level system execution.
 
